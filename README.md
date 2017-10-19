@@ -1,5 +1,7 @@
 # BELAJAR GIT #
 
+>Offline
+
   1. belajar git oleh owner
 
 
@@ -7,3 +9,8 @@
 
 
   3. tambahan lagi oleh kontributor
+
+
+> Online
+
+  1. tambahan via Online
